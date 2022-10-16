@@ -1,0 +1,73 @@
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #bbccfa;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    margin: 0
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, Courier New, monospace
+}
+
+.ConvertForm_form__r4jER {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    min-height: 85vh;
+    text-align: center
+}
+
+.ConvertForm_form__r4jER h2 {
+    font-size: 2.5rem
+}
+
+.ConvertForm_equals__7vQ8U {
+    font-size: 2rem;
+    font-weight: 700
+}
+
+.CurrencyRow_input__5glEp {
+    border: none;
+    border-radius: .3rem;
+    margin: .3rem;
+    padding: .5rem
+}
+
+.CurrencyRow_input__5glEp:focus {
+    outline: none
+}
+
+.CurrencyRow_select__68qxU {
+    border: none;
+    border-radius: .3rem;
+    margin-left: .5rem;
+    padding: .5rem
+}
+
+.Header_header__kasgQ {
+    align-items: center;
+    background-color: #0334bb;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .25);
+    color: #f4f6fe;
+    display: flex;
+    height: 8rem;
+    justify-content: space-between;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+
+.Header_header__kasgQ h2 {
+    padding-left: 3rem
+}
+
+.Header_currencyRate__XUBam {
+    padding: 0 4rem
+}
+
+/*# sourceMappingURL=main.abbc7e3b.css.map*/

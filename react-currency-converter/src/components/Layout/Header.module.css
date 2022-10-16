@@ -1,0 +1,22 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    background-color: #0335c0;
+    color: #F4F6FE;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+}
+
+.header h2 {
+    padding-left: 3rem;
+}
+
+.currencyRate {
+    padding: 0 4rem;
+}
