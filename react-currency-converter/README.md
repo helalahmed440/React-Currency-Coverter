@@ -25,8 +25,3 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Developers
-
-| Name              | GitHub Profile                |
-| ----------------- | ----------------------------- |
-| Andrii Skokovskyi | <https://github.com/Samwa-ua> |
